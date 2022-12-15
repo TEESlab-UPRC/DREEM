@@ -26,7 +26,7 @@ Read the full [documentation]
 
 ## Citing DREEM
 In academic literature please cite DREEM as: 
->[![article DOI](https://img.shields.io/badge/article-10.1016/j.egyr.2021.07.052-blue)](https://doi.org/10.1016/j.enconman.2019.112339) Stavrakas, V., & Flamos, A. (2020). A modular high-resolution demand-side management model to quantify benefits of demand-flexibility in the residential sector. Energy Conversion and Management, 205, 112339. [https://doi.org/10.1016/j.enconman.2019.112339](https://doi.org/10.1016/j.enconman.2019.112339)
+>[![article DOI](https://img.shields.io/badge/article-10.1016/j.enconman.2019.112339-blue)](https://doi.org/10.1016/j.enconman.2019.112339) Stavrakas, V., & Flamos, A. (2020). A modular high-resolution demand-side management model to quantify benefits of demand-flexibility in the residential sector. Energy Conversion and Management, 205, 112339. [https://doi.org/10.1016/j.enconman.2019.112339](https://doi.org/10.1016/j.enconman.2019.112339)
 
 
 ## License
