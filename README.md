@@ -1,26 +1,32 @@
 # DREEM
 
+![DREEM logo](https://user-images.githubusercontent.com/120646072/207898376-7f558885-d55d-4de6-910b-32b23c080519.jpg)
 
+## Contents
+- [Contents](#contents)
+- [About](#about)
+- [Quick start](#quick-start)
+- [Documentation](#documentation)
+- [Citing BSAM](#citing-bsam)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
+## About
+The Dynamic high-Resolution dEmand-sidE Management (DREEM) model is a hybrid bottom up model that combines the key features of both statistical and engineering models. The model serves as an entry point in Demand-Side Management modeling in the building sector, by expanding the computational capabilities of existing Building Energy System models to assess the benefits and limitations of demand-flexibility, primarily for consumers, and for other power actors involved. The novelty of the DREEM model lies mainly in its modularity, as its structure is decomposed into individual modules characterized by the main principles of component- and modular-based system modeling approach, namely “the interdependence of decisions within modules; the independence of decisions between modules; and the hierarchical dependence of modules on components embodying standards and design rules.”
 
+This modular approach allows for more flexibility in terms of possible system configurations and computational efficiency towards a wide range of scenarios studying different aspects of end-use. It also provides the ability to incorporate future technological breakthroughs in a detailed manner, such as the inclusion of heat pumps or electric vehicles, in view of energy transitions envisioning the full electrification of the heating and transport sectors. The latter makes the DREEM model competitive compared to other models in the field, since scientific literature acknowledges that there are limitations to how much technological detail can be incorporated without running into computational and other difficulties. The model also supports the capability of producing output for a group of buildings and could also serve as a basis for modeling domestic energy demand within the broader field of urban, national or regional energy systems in different geographical (climate) and socioeconomic contexts. It is maintained by the [Techno-Economics of Energy Systems laboratory (TEESlab)](https://teeslab.unipi.gr) at the University of Piraeus and is freely available on GitHub. 
 
+## Quick start
+* Install a Modelica based modeling and simulation environment
+* Download DREEM rom Github and save it in a folder of your preference
+* Run DREEM.mo file
 
+## Documentation
+Read the full [documentation]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Citing DREEM
+In academic literature please cite DREEM as: 
+>[![article DOI](https://img.shields.io/badge/article-10.1016/j.egyr.2021.07.052-blue)](https://doi.org/10.1016/j.enconman.2019.112339) Stavrakas, V., & Flamos, A. (2020). A modular high-resolution demand-side management model to quantify benefits of demand-flexibility in the residential sector. Energy Conversion and Management, 205, 112339. [https://doi.org/10.1016/j.enconman.2019.112339](https://doi.org/10.1016/j.enconman.2019.112339)
 
 
 ## License
@@ -43,7 +49,7 @@ The **DREEM source code** consists of the *DREEM.mo* file and is licensed under 
     
  The **DREEM model** is build upon **Modelica Buildings library**, a free open-source library available under the **3 clause BSD License**. Read the **3 clause BSD License** terms [here](https://simulationresearch.lbl.gov/modelica/license.html).
 
-
-  
-    
-    
+## Acknowledgements
+The development of DREEM has been partially funded by the following sources:
+* The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Sustainable energy transitions laboratory" (SENTINEL) with Grant Agreement No. 837089
+* The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Transition pathways and risk analysis for climate change policies" (TRANSrisk) with Grant Agreement No. 642260       
