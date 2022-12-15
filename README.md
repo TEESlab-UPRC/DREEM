@@ -24,7 +24,7 @@
 
 
 ## License
-The **DREEM source code**, consists of the *DREEM.mo* file, and is licensed under the GNU Affero General Public License:
+The **DREEM source code** consists of the *DREEM.mo* file and is licensed under the GNU Affero General Public License:
 
     Copyright (C) 2022 Technoeconomics of Energy Systems laboratory - University of Piraeus Research Center (TEESlab-UPRC)
 
@@ -41,7 +41,7 @@ The **DREEM source code**, consists of the *DREEM.mo* file, and is licensed unde
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     
- The **DREEM model** is build upon **Modelica Buildings library**, a free open-source library available under the **3 clause BSD License**. Read the **3 clause BSD License** terms [here](https://simulationresearch.lbl.gov/modelica/license.html)
+ The **DREEM model** is build upon **Modelica Buildings library**, a free open-source library available under the **3 clause BSD License**. Read the **3 clause BSD License** terms [here](https://simulationresearch.lbl.gov/modelica/license.html).
 
 
   
