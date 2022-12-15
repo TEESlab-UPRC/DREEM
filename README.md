@@ -1,6 +1,6 @@
 # DREEM
 
-![DREEM logo](https://user-images.githubusercontent.com/120646072/207898376-7f558885-d55d-4de6-910b-32b23c080519.jpg)
+![image](https://user-images.githubusercontent.com/120646072/207902143-beea4f1d-7065-468d-913c-c0a13cb06fea.png)
 
 ## Contents
 - [Contents](#contents)
