@@ -17,10 +17,10 @@ The Dynamic high-Resolution dEmand-sidE Management (DREEM) model is a hybrid bot
 This modular approach allows for more flexibility in terms of possible system configurations and computational efficiency towards a wide range of scenarios studying different aspects of end-use. It also provides the ability to incorporate future technological breakthroughs in a detailed manner, such as the inclusion of heat pumps or electric vehicles, in view of energy transitions envisioning the full electrification of the heating and transport sectors. The latter makes the DREEM model competitive compared to other models in the field, since scientific literature acknowledges that there are limitations to how much technological detail can be incorporated without running into computational and other difficulties. The model also supports the capability of producing output for a group of buildings and could also serve as a basis for modeling domestic energy demand within the broader field of urban, national or regional energy systems in different geographical (climate) and socioeconomic contexts. It is maintained by the [Techno-Economics of Energy Systems laboratory (TEESlab)](https://teeslab.unipi.gr) at the University of Piraeus and is freely available on GitHub. 
 
 ## Quick start
-* Install a Modelica based modeling and simulation environment
-* Download DREEM from Github and save it in a folder of your preference
-* Download the modelica "Buildings" library from [here](https://github.com/lbl-srg/modelica-buildings) 
-* Run DREEM.mo file
+* Install a Modelica based modeling and simulation environment.
+* Download DREEM from Github and save it in a folder of your preference.
+* Download the modelica "Buildings" library from [here](https://github.com/lbl-srg/modelica-buildings). 
+* Run DREEM.mo file.
 
 ## Documentation
 Read the full [documentation]
