@@ -18,8 +18,8 @@ This modular approach allows for more flexibility in terms of possible system co
 
 ## Quick start
 * Install a Modelica based modeling and simulation environment.
-* Download DREEM from Github and save it in a folder of your preference.
 * Download the modelica "Buildings" library from [here](https://github.com/lbl-srg/modelica-buildings). 
+* Download DREEM from Github and save it in a folder of your preference.* 
 * Run DREEM.mo file.
 
 ## Documentation
