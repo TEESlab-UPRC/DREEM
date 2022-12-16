@@ -7,7 +7,7 @@
 - [About](#about)
 - [Quick start](#quick-start)
 - [Documentation](#documentation)
-- [Citing BSAM](#citing-bsam)
+- [Citing DREEM](#citing-bsam)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -19,6 +19,7 @@ This modular approach allows for more flexibility in terms of possible system co
 ## Quick start
 * Install a Modelica based modeling and simulation environment
 * Download DREEM from Github and save it in a folder of your preference
+* Download the modelica "Buildings" library from [here](https://github.com/lbl-srg/modelica-buildings) 
 * Run DREEM.mo file
 
 ## Documentation
