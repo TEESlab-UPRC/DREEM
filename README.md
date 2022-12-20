@@ -23,7 +23,7 @@ This modular approach allows for more flexibility in terms of possible system co
 * Run DREEM.mo file.
 
 ## Documentation
-Read the full [documentation]()
+Read the full documentation [here](http://teeslab.unipi.gr/wp-content/uploads/2022/12/DREEM-Documentation_v1.0.pdf).
 
 ## Citing DREEM
 In academic literature please cite DREEM as: 
